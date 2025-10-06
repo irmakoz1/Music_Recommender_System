@@ -4,6 +4,8 @@
 
 The goal of this repository is to develop a recommender system for Deezer and improve their collaborative filtering pipeline. It was part of a Kaggle challenge however, here I did not foucs on improving metrics but more building a recommender system that is flexible, scalable and interpretable.
 
+I recommend using Google Colab to access some GPU power.
+
 First step was to prerprocess the data and enhance it with metadata from Deezer API. This part can be found in the BPR script.
 
 Two methods are used.
