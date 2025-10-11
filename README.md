@@ -53,3 +53,5 @@ The scripts are made as tutorials, so if you want to learn more about the modeli
 4- pip install -r requirements.txt in Colab Notebook.
 
 5- Upload the scripts. Start with the BPR script, here we also enrich the data with metadata. You can save the metadata file to your Google Drive for faster performance. Then you can run the LightFM script.
+
+## Next step: Frontend and App deployment
